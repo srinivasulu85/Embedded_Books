@@ -1,0 +1,1 @@
+Welcome to the Embedded Books Repository! This repository is dedicated to providing a comprehensive collection of embedded systems books and related information for enthusiasts, students, and professionals in the field. Whether you're just starting out or looking to expand your knowledge, you'll find valuable resources here to deepen your understanding of embedded systems.
